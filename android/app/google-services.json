@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149677897061",
+    "project_id": "chat-hub-ae688",
+    "storage_bucket": "chat-hub-ae688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149677897061:android:04053a5d207432cdf59d8c",
+        "android_client_info": {
+          "package_name": "com.Yash.flutter_chat_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9Rq34WuwN_vgNvUZFffjMJvMxjItZcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
